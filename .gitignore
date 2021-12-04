@@ -1,0 +1,15 @@
+.env*
+node_modules/
+routes/npm-debug.log
+env*.zip
+env.list
+env.list.*
+manifest.yml
+.profile
+npm-debug.log
+cache/context_runtime.json
+cache/response_runtime.json
+.secrets.baseline
+temp.txt
+package-lock.*
+serverless_nodejs_obsoleted
